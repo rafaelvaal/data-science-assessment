@@ -1,0 +1,7 @@
+pandas
+geopandas
+shapely
+SQLAlchemy
+psycopg2-binary
+GDAL
+ipykernel
