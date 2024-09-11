@@ -1,4 +1,6 @@
-Feel free to set up this notebook using condo, or your own kernal / virtual environment. To make it easier, you can set up the notebook using this docker with the potentialy libraries you might need. 
+# Data Engineering Take-Home Assignment: Nature Conservation & Geospatial Data
+
+Feel free to set up the jupyter notebook in this container using conda, or your own kernal / virtual environment. To make it easier, you can set up the notebook using this docker with the potentialy libraries you might need. 
 
 #### To start using a prepared Docker image, 
 - 1 navigate to this shared folder in your terminal, and then load up docker and run the docker file to pull in needed libraries
