@@ -1,0 +1,44 @@
+[
+  {
+    "satellite_id": "SAT001",
+    "start_time": "2018-09-01T12:00:00Z",
+    "last_time": "2024-09-10T12:00:00Z",
+    "frequency": "daily",
+    "bounding_box": {
+      "xmin": -112.939131,
+      "ymin": 42.596356,
+      "xmax": -107.048726,
+      "ymax": 46.142424
+    },
+    "cloud_cover_percentage": 12.5,
+    "resolution": "10m"
+  },
+  {
+    "satellite_id": "SAT002",
+    "start_time": "2004-09-01T12:00:00Z",
+    "last_time": "2024-09-06T12:00:00Z",
+    "frequency": "bi-weekly",
+    "bounding_box": {
+      "xmin": -180,
+      "ymin": -90,
+      "xmax": 180,
+      "ymax": 90
+    },
+    "cloud_cover_percentage": 10.0,
+    "resolution": "100m"
+  },
+  {
+    "satellite_id": "SAT003",
+    "start_time": "2022-09-01T12:00:00Z",
+    "last_time": "2024-09-10T12:00:00Z",
+    "frequency": "hourly",
+    "bounding_box": {
+      "xmin": -124.178099,
+      "ymin": 30.738207,
+      "xmax": -95.942831,
+      "ymax": 51.538929
+    },
+    "cloud_cover_percentage": 10.0,
+    "resolution": "20m"
+  }
+]

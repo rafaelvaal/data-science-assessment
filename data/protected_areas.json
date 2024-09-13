@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yellowstone National Park",
+        "category": "National Park",
+        "protected_area_id": "PA001"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-110.8390, 44.4488],
+            [-110.7052, 44.5990],
+            [-110.5339, 44.5166],
+            [-110.5885, 44.4280],
+            [-110.8390, 44.4488]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yosemite National Park",
+        "category": "National Park",
+        "protected_area_id": "PA002"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.6550, 37.7244],
+            [-119.5964, 37.6962],
+            [-119.4893, 37.7799],
+            [-119.3029, 37.8456],
+            [-119.5383, 37.8651],
+            [-119.6550, 37.7244]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Canyon National Park",
+        "category": "National Park",
+        "protected_area_id": "PA003"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-112.1861, 36.1336],
+            [-112.2156, 36.2331],
+            [-112.0969, 36.2861],
+            [-111.8205, 36.1182],
+            [-112.1214, 36.0570],
+            [-112.1861, 36.1336]
+          ]
+        ]
+      }
+    }
+  ]
+}
