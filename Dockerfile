@@ -14,7 +14,7 @@ RUN apt-get update && apt-get install -y \
 # Install Python libraries
 RUN pip install --upgrade pip && \
     pip install pandas geopandas shapely sqlalchemy psycopg2-binary \
-                matplotlib plotly keplergl scikit-learn rasterio seaborn
+                matplotlib plotly keplergl scikit-learn rasterio seaborn folium xgboost hyperopt mlflow pyspark
 
 # Create necessary directories and set permissions
 RUN mkdir -p /home/nobody/work /home/nobody/.local/share/jupyter && \
